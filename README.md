@@ -11,3 +11,7 @@ This code simulates molecule dynamics assuming rigid ball interaction. Unfortuna
 ### magnetic\_levitation.c
 
 This is a code to simulate a current field that I encounter during a physics experiment.
+
+### bloch.py
+
+Use python to calculate the non interaction band structure
